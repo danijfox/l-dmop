@@ -1,0 +1,51 @@
+.blockContent {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 0 0 20vh;
+}
+.post {
+  width: 45vw;
+}
+.post-navigation {
+  width: 100%;
+}
+.sketchfab-embed-wrapper {
+  position: sticky;
+  top: 5vh;
+  height: 100%;
+  width: 40vw;
+}
+.sketchfab-embed-wrapper iframe {
+  width: 100%;
+  height: 60vh;
+}
+.postList {
+  display: flex;
+  gap: 40px;
+}
+.postList-post {
+  width: 25vw;
+}
+.postList-post a {
+  width: 100%;
+}
+.postList-post img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .sketchfab-embed-wrapper {
+    position: relative;
+    width: 100vw;
+    height: 60vh;
+  }
+  .sketchfab-embed-wrapper iframe {
+    width: 100%;
+    height: 100%;
+  }
+  .post {
+    width: 100vw;
+  }
+}
