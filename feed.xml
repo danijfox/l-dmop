@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Your Blog Name</title>
+	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<link href="https://danijfox-l-dmop.deno.dev/feed.xml" rel="self"/>
+	<link href="https://danijfox-l-dmop.deno.dev/"/>
+	
+	<updated>2022-12-30T10:50:27Z</updated>
+	<id>https://danijfox-l-dmop.deno.dev/</id>
+	<author>
+		<name>Your Name Here,</name>
+		<email>youremailaddress@example.com,</email>
+	</author>
+	<entry>
+		<title>Tyrannosaurus Rex</title>
+		<link href="https://danijfox-l-dmop.deno.dev/posts/trex/"/>
+		<updated>2018-05-01T00:00:00Z</updated>
+		<id>https://danijfox-l-dmop.deno.dev/posts/trex/</id>
+		<content type="html">&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</content>
+	</entry>
+	<entry>
+		<title>Diplodocus</title>
+		<link href="https://danijfox-l-dmop.deno.dev/posts/diplodocus/"/>
+		<updated>2018-05-01T00:00:00Z</updated>
+		<id>https://danijfox-l-dmop.deno.dev/posts/diplodocus/</id>
+		<content type="html">&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</content>
+	</entry>
+	<entry>
+		<title>Triceratops</title>
+		<link href="https://danijfox-l-dmop.deno.dev/posts/triceratops/"/>
+		<updated>2018-05-01T00:00:00Z</updated>
+		<id>https://danijfox-l-dmop.deno.dev/posts/triceratops/</id>
+		<content type="html">&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</content>
+	</entry>
+	<entry>
+		<title>Velociraptor</title>
+		<link href="https://danijfox-l-dmop.deno.dev/posts/velociraptor/"/>
+		<updated>2018-05-01T00:00:00Z</updated>
+		<id>https://danijfox-l-dmop.deno.dev/posts/velociraptor/</id>
+		<content type="html">&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,41 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Your Blog Name",
+  "home_page_url": "https://danijfox-l-dmop.deno.dev/",
+  "feed_url": "https://danijfox-l-dmop.deno.dev/feed.json",
+  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "author": {
+    "name": "Your Name Here,",
+    "url": "https://example.com/about-me/"
+  },
+  "items": [
+    {
+      "id": "https://danijfox-l-dmop.deno.dev/posts/trex/",
+      "url": "https://danijfox-l-dmop.deno.dev/posts/trex/",
+      "title": "Tyrannosaurus Rex",
+      "content_html": "<pre><code></code></pre>",
+      "date_published": "2018-05-01T00:00:00Z"
+    },
+    {
+      "id": "https://danijfox-l-dmop.deno.dev/posts/diplodocus/",
+      "url": "https://danijfox-l-dmop.deno.dev/posts/diplodocus/",
+      "title": "Diplodocus",
+      "content_html": "<pre><code></code></pre>",
+      "date_published": "2018-05-01T00:00:00Z"
+    },
+    {
+      "id": "https://danijfox-l-dmop.deno.dev/posts/triceratops/",
+      "url": "https://danijfox-l-dmop.deno.dev/posts/triceratops/",
+      "title": "Triceratops",
+      "content_html": "<pre><code></code></pre>",
+      "date_published": "2018-05-01T00:00:00Z"
+    },
+    {
+      "id": "https://danijfox-l-dmop.deno.dev/posts/velociraptor/",
+      "url": "https://danijfox-l-dmop.deno.dev/posts/velociraptor/",
+      "title": "Velociraptor",
+      "content_html": "<pre><code></code></pre>",
+      "date_published": "2018-05-01T00:00:00Z"
+    }
+  ]
+}
