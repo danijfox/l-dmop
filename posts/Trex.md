@@ -1,0 +1,23 @@
+---
+title: Tyrannosaurus Rex
+description: El depredador mas temido.
+img: ./img/trex.png
+date: 2018-05-01
+tags:
+  - terópodo
+modelIntro: 9d3a3e42c0054c35aa39c3ee07388d16
+intro: El Tyrannosaurus Rex o Tiranosaurio Rex en español, fue un dinosaurio carnívoro clasificado como única especie del genero terópodo tiranosáurido, el cual habitó la tierra a finales del periodo cretácico entre 68 y 65 millones de años, en el territorio que hoy conocemos como Norteamérica. Y es que todos conocemos al feroz Tiranosaurio Rex, como toda una leyenda de la época de los dinosaurios. Es que no solamente estamos hablando del rey de los dinosaurios, sino posiblemente de la criatura más feroz, terrorífica y violenta, que jamás haya existido sobre nuestro planeta. Por lo tanto, el Tyrannosaurus rex lo tiene todo para ser el dinosaurio más famoso que existe. En este interesante artículo, te contaremos todo sobre el dinosaurio más famoso de la historia, sus características y costumbres, así que no te lo pierdas. El Tiranosaurio Rex o T-Rex como también se le conoce, como lo mencionamos anteriormente, es un terópodo tiranosáurido. Theropoda significa “pie de bestia”, por lo tanto, los terópodos son dinosaurios carnívoros bípedos o bien, que se mantenían sobre dos patas. Por otro lado, el término “tiranosáurido” se refiere a grandes lagartos “tiranos”, que eran dinosaurios de cráneo grande y prominente, casi sin cuello y extremidades anteriores cortas que podríamos llamar brazos. Es evidente que con un nombre como “tirano”, no se podía pretender que este dinosaurio fuese una criatura amigable. El Tiranosaurio Rex fue el mayor depredador de su época siendo una de las especies de dinosaurios que habitaban el planeta durante su extinción masiva, ocurrida durante el periodo cretácico. Su nombre significa (“Rey de los lagartos tiranos”).
+
+bonesModel: cc1d129e5ff3438db295177c13fa643d
+bonesTitle: Caracteristicas
+bones: El Tiranosaurio Rex o Tyrannosaurus Rex, era un dinosaurio carnívoro bípedo. Tenía un gran cráneo el cual podía llegar a medir 1.50 metros de longitud el cual era ancho en la parte posterior y con un hocico estrecho, esto ayudaba a que tuviera una buena visión binocular.Su quijada tenia forma de U a diferencia de otros carnívoros que la tenían en forma de V, en la misma tenia aproximadamente 60 dientes con un grosor de  20 centímetros, los cuales median entre 10 a 20 centímetros que tenían forma de daga. Algunos eran afilados y lisos, mientras que otros tenían bordes aserrados para machacar los huesos de sus presas. Su cuello era robusto para soportar su enorme cráneo; su extremidades superiores eran pequeñas y tenían dos dedos con garras al final, pero a pesar de su tamaño los investigadores consideran que podían llegar a levantar hasta 200 kilogramos con ellas. Sus extremidades inferiores eran larga y robustas con tres dedos con grandes pezuñas. Se cree que el Tyrannosaurus Rex podía alcanzar velocidades de hasta 50 Km/h. También tenía una larga y gruesa cola que podía llegar a medir los 15.5 metros de largo, que le ayudaba a mantenerse en equilibrio debido a su gran peso, estimándose que rondaba las 9 toneladas.
+
+foodModel: 5bc3e85baa1b4750b9448285751359d7
+foodTitle: ¿De qué se alimentaba?
+food: Este dinosaurio fue un carnívoro y en la actualidad los investigadores se debaten entre si fue un depredador o un carroñero,  aunque probablemente fue un poco de ambos. El Tyrannosaurus Rex se alimentaba de grandes herbívoros de su época, a los cuales derribaba embistiéndolos para luego devorarlos con su poderosa mandíbula. Los investigadores han demostrado que estos depredadores poseían uno de los olfatos más poderosos jamás conocidos, además de una gran visión que le ayudaba a tener una cacería más efectiva. Sabiendo que la base de la mandíbula del Tiranosaurio Rex, podía medir alrededor de un metro, no es de extrañar que la fuerza de su mordida fuese impresionante. Se estima que estos animales depredadores eran capaces de ejercer una mordida con una fuerza de unas 4 toneladas en promedio. Esto implica que de un solo mordisco eran capaces de arrancar hasta 225 kilos de carne, que lo convierte en el más grande depredador que haya existido en el planeta Tierra. Los Tyrannosaurus Rex necesitaban una gran cantidad de carne para poder sobrevivir. Los paleontólogos han hallado restos de excrementos fosilizados que contenían carne y huesos medio digeridos, lo que sugiere que tenían un metabolismo muy acelerado. Además, descubrieron algunos huesos que tenían marcas de una dentadura igual a la suya, lo que demuestra que el Tiranosaurio Rex, se alimentaba de miembros de su propia especie; es decir, que estos temibles depredadores también eran caníbales.
+
+
+---
+
+
+```
